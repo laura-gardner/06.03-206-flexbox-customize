@@ -118,14 +118,14 @@ body {
 
 .wrapper {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     margin: 0;
     height: 100%;
     width: 100%;
 }
 
-#content {
+div {
     display: flex;
     justify-content: center;
     align-items: center;
